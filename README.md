@@ -12,7 +12,7 @@ Higher Education VR is a Virtual Reality Experience developed by a Project Class
 
 ## Link to Video Playthrough
 
-![Higher Education VR](https://youtu.be/3iLLkwsfD_A)
+https://youtu.be/3iLLkwsfD_A
 
 ## Team
 Producer          - Archana Senthilkumar
